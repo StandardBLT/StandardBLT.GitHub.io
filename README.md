@@ -3,7 +3,7 @@ Powered by OverrideStudio (JoeMichaelQiaoStudio ~~in legacy~~)
 
 This is the main repository of StandardBLT
 
-![StandardBLT Logo](logo.png)  
+![StandardBLT Logo](/images/logo.png)  
 
 ------
 
